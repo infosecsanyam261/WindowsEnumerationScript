@@ -1,7 +1,7 @@
-# WSC- WindowsEnumerationScript
+# WES- WindowsEnumerationScript
 Windows Enumeration Script for Pentesters (OSCP)
 
-WSC is Powershell script desgined for penetration testers, CTFers and specially for OSCP to enumeration information for particular Windows Target machine. 
+WES is Powershell script desgined for penetration testers, CTFers and specially for OSCP to enumeration information for particular Windows Target machine. 
 
 Usage:
 Download this script.
