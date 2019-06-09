@@ -22,6 +22,7 @@ Run by just right click on file and select run with powershell :)
 
 
 # Current Features 
+Markup : * Bullet list
 Gather Target Information
 Network Information (interfaces, arp, netstat)
 Routing Tables
