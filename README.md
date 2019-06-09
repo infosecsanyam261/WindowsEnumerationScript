@@ -50,3 +50,5 @@ Run by just right click on file and select run with powershell :)
 26. Current Users
 27. Running Processes
 
+
+Thanks to all :) 
