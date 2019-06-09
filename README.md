@@ -22,6 +22,8 @@ Run by just right click on file and select run with powershell :)
 
 
 # Current Features 
+1. James Madison
+
 Markup : * Bullet list
 Gather Target Information
 Network Information (interfaces, arp, netstat)
