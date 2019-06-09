@@ -22,12 +22,9 @@ Run by just right click on file and select run with powershell :)
 
 
 # Current Features 
-1. James Madison
-
-Markup : * Bullet list
-Gather Target Information
-Network Information (interfaces, arp, netstat)
-Routing Tables
+1. Target System Information
+2. Network Information (interfaces, arp, netstat)
+3. Routing Tables
 4  Environment Variables
 5  Connected Drives
 6  Firewall Config
